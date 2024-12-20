@@ -12,10 +12,10 @@ Mathetron is an All-in-One calculator including various fields of mathematics. T
 1. Go through all steps of the 'Installation' section below
 2. Have Fun! :)
 
-## Installlation
+## Installation
 1. Clone the repo
 ```
-git clone
+git clone https://github.com/Shadowpatriot9/Mathetron.git
 ```
 2. Run the 'main.py' file via Python interpreter
 ```
